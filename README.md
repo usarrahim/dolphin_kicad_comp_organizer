@@ -25,7 +25,7 @@ Simply:
 
 ## Download & Install
 
-1. Download `dolphin_kicad_comp_organizer_setup.exe` from the [Releases](https://github.com/yourusername/dolphin_kicad_comp_organizer/releases) page
+1. Download `dolphin_kicad_comp_organizer_setup.exe` from the repository
 2. Run the installer
 3. Follow the installation wizard
 4. Launch the application from your Start Menu or Desktop
@@ -83,11 +83,7 @@ MyKiCadProject/
 
 ## Contributing
 
-Found a bug or have a feature request? Please open an [issue](https://github.com/yourusername/dolphin_kicad_comp_organizer/issues)!
-
-## License
-
-[Add your license here]
+Found a bug or have a feature request? Please open an [issue](https://github.com/usarrahim/dolphin_kicad_comp_organizer/issues)!
 
 ---
 
