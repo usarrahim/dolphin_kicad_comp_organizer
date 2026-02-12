@@ -1,6 +1,6 @@
 # KiCad Component Organizer
 
-![App Screenshot](app_ss.png)
+![App Screenshot](src/assets/app_ss.png)
 
 **KiCad Component Organizer** is a simple Windows application that helps you organize KiCad component files from ZIP archives into your project folders automatically.
 
